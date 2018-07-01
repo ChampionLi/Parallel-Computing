@@ -1,6 +1,6 @@
 # Parallel Computing Library Test
 
-Parallel computing can speed up our programme. From data parallel to process parallel, there are many parallel tool and way that we can use. The project include The Parallel Patterns Library (PPL), Open Multi-Processing (OpenMP) and Open Computing Language (OpenCL) test examples. More details can be found in [my blog](https://championli.github.io)
+Parallel computing can speed up our programme. From data parallel to process parallel, there are many parallel tool and way that we can use. The project include The Parallel Patterns Library (PPL), Open Multi-Processing (OpenMP) and Open Computing Language (OpenCL) test examples. More details can be found in [my blog](https://championli.github.io/2018/07/01/parallel-computing/)
 
 To use the cpp files, you only need to establish the different Visual Studio projects and compile them respectively. The configurations are sa follows:
 
